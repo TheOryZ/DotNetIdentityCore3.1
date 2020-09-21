@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Core\bin\Debug\netcoreapp3.1\Example.Core.deps.json
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Core\bin\Debug\netcoreapp3.1\Example.Core.dll
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Core\obj\Debug\netcoreapp3.1\Example.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Core\obj\Debug\netcoreapp3.1\Example.Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Core\bin\Debug\netcoreapp3.1\Example.Core.pdb
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Core\obj\Debug\netcoreapp3.1\Example.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Core\obj\Debug\netcoreapp3.1\Example.Core.dll
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Core\obj\Debug\netcoreapp3.1\Example.Core.pdb

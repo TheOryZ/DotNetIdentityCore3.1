@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.Business.deps.json
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.Business.dll
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.Business.pdb
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\obj\Debug\netcoreapp3.1\Example.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\obj\Debug\netcoreapp3.1\Example.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\obj\Debug\netcoreapp3.1\Example.Business.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\obj\Debug\netcoreapp3.1\Example.Business.dll
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\obj\Debug\netcoreapp3.1\Example.Business.pdb
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\obj\Debug\netcoreapp3.1\Example.Business.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.Core.dll
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.DataAccess.dll
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.Entities.dll
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.DataAccess.pdb
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.Entities.pdb
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\bin\Debug\netcoreapp3.1\Example.Core.pdb
+C:\Users\Lenovo\source\repos\DotNetCoreIdentityExample\Example.Business\obj\Debug\netcoreapp3.1\Example.Business.csproj.CopyComplete

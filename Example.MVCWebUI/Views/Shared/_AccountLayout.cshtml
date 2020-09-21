@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Works</title>
+    <link href="~/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+
+        div.alert ul {
+            margin-left: -20px;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+        <a class="navbar-brand" href="#">Navbar</a>
+    </nav>
+    <div class="container mt-3">
+        <div class="row align-items-center">
+            <div class="offset-md-2 col-md-8">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+</body>
+</html>

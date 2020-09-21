@@ -1,0 +1,35 @@
+﻿@model Example.MVCWebUI.Models.ProjectListViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="offset-md-1 col-md-10">
+        <div class="card">
+            <div class="card-header">
+                Project List
+            </div>
+            <div class="card-body">
+                <div class="table-responsive-sm">
+                    <table class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">Title</th>
+                                <th scope="col">Description</th>
+                                <th scope="col">Owner</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var project in Model.Projects)
+                            {
+                                <tr>
+                                    <td>@project.Title</td>
+                                    <td>@project.Description</td>
+                                    <td>@project.OwnerId</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>

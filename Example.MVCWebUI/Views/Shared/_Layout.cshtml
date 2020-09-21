@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Works</title>
+    <link href="~/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+        <a class="navbar-brand" href="#">Works !</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a asp-controller="Home" asp-action="Index" class="nav-link">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Home" asp-action="CreateProject" class="nav-link">Create Project</a>
+                </li>
+            </ul>
+            <span class="navbar-text">
+                <a asp-controller="Account" asp-action="Logout" onclick="event.preventDefault(); document.getElementById('logoutForm').submit();">Logout</a>
+            </span>
+            <form asp-controller="Account" asp-action="Logout" method="post" id="logoutForm"></form>
+        </div>
+    </nav>
+    <div class="container mt-3">
+        <div class="row">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>
